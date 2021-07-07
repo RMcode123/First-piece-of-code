@@ -7,9 +7,9 @@ int main()
  string Name;
  
  string AgePhrase;
- int Age;
+ double Age;
  
- cout << "What's your name?" << endl;
+ cout << "What's your name? (in lowercase letters)" << endl;
  cin >> Name;
  cout << "How old are you?" << endl;
  cin >> Age;
