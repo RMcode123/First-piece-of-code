@@ -16,7 +16,7 @@ Made with the help of: https://www.youtube.com/watch?v=vLnPwxZdW4Y
    
    By RM
    
-   C++
-   42 lines of code,
+   C++:
+    42 lines of code,
    4 variables
    
